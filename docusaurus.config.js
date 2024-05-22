@@ -1,8 +1,8 @@
 export default {
   // ...
-  url: 'https://endiliey.github.io', // Your website URL
+  url: 'https://vinaykn.github.io/opendevhub', // Your website URL
   baseUrl: '/',
-  projectName: 'endiliey.github.io',
+  projectName: 'opendevhub.github.io',
   organizationName: 'endiliey',
   trailingSlash: false,
   // ...
